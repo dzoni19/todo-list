@@ -1,6 +1,7 @@
 # Todo app
 
-![Design preview for the Todo app coding challenge](./design/desktop-preview.jpg)
+<img width="955" alt="2022-01-14 11_52_04-Todo app" src="https://user-images.githubusercontent.com/63516391/149504001-fa0e59e2-221f-42c9-8cdc-4e17f9259b0e.png">
+<a href="">See More</a>
 
 ## Welcome! 👋
 
